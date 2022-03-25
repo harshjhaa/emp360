@@ -1,0 +1,14 @@
+[
+    {
+        "empid": 123,
+        "name": "max",
+        "D.O.B": "12/03/1997",
+        "skills": "REACT"
+    },
+    {
+        "empid": 456,
+        "name": "sam",
+        "D.O.B": "18/02/1994",
+        "skills": "ANGULAR"
+    }
+]
